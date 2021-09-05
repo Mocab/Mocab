@@ -6,8 +6,8 @@ I'm Mocab, Welcome to my profile.
 #### :books: I am currently learning:
 - <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></code> Html  
 - <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code> Css 
-- <code><img height="20" src="/icons/js.png"></code> Scss 
-- <code><img height="20" src="/icons/scss.png"></code> Javascript 
+- <code><img height="20" src="/icons/scss.png"></code> Scss 
+- <code><img height="20" src="/icons/js.png"></code> Javascript 
 
 I am very good at setting up Minecraft servers and Discord servers.
 
