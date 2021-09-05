@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+I'm Mocab, Welcome to my profile.
 
-<!--
-**Mocab/Mocab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Mocab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mocab&count_private=true&theme=algolia&show_icons=true)
 
-Here are some ideas to get you started:
+#### :books: I am currently learning:
+- Html  
+- Css 
+- Scss 
+- Javascript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am very good at setting up Minecraft servers and Discord servers.
+
+### :mailbox_with_mail: Contact Me
+- Talk to me on discord: Mocab#3905
+- Email me: Mocab3905@gmail.com
