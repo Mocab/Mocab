@@ -1,4 +1,4 @@
-## Hi there <img src="wave.gif" width="25px">
+## Hi there <img src="wave.gif" width="25px" height="25px">
 I'm Mocab, Welcome to my profile.
 
 ![Mocab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mocab&count_private=true&theme=algolia&show_icons=true)
