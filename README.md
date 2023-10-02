@@ -1,7 +1,7 @@
 <img src="./assets/banner.jpg" alt="heading banner" align="center">
 
 ## Hi there
-I'm Mocab, welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px">
+I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 
 ### About Me:
 
