@@ -9,7 +9,7 @@ I'm Mocab, welcome to my profile!
 - ⚡Interested in many fields, including electronics, computer science, robotics and AI.
 - 💻Planning to study computer engineering.
 - <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" alt="Discord logo" height="20"> I am very good at creating, designing and managing Discord servers.
-- <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> I am highly skilled and experienced at creating and setting up Minecraft servers.
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> I am highly skilled and experienced at creating and setting up Minecraft servers (Java).
 
 ### Languages and Tools:
 
@@ -37,20 +37,21 @@ I'm Mocab, welcome to my profile!
 - Email me at [mocab.mail@gmail.com](mailto:mocab.mail@gmail.com)
 
 <br>
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/mocab" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
 
 
 ## Stats:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mocab&count_private=true&theme=algolia&show_icons=true">
+
 <a href="http://www.github.com/mocab"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mocab&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=mocab&label=Profile%20views&color=0e75b6&style=flat" alt="mocab"/>
+<img src="https://komarev.com/ghpvc/?username=mocab&label=Profile%20views&color=0e75b6&style=flat" alt="profile views mocab"/>
 <br>
 
-<img src="https://raw.githubusercontent.com/Mocab/Mocab/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mocab/Mocab/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 
