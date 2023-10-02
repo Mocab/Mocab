@@ -6,7 +6,7 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 ### About Me:
 
 - ✍🏻 Currently learning Python
-- ⚡ Interested in many fields, including electronics, computer science, robotics and AI
+- ⚡ Interested in many fields including: electronics, computer science, robotics and AI
 - 💻 Tech enthusiast
 - 🔨 Loves to dissect circuit boards and electronics
 - 🤖 Planning to study computer engineering
@@ -35,7 +35,7 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 </a>
 
 ### ✉️ Contact Me:
-- <a href="https://discord.com/users/450225492876984320">Talk to me on Discord</a>
+- Talk to me on <a href="https://discord.com/users/450225492876984320">Discord</a>
 - Email me @ [mocab.mail@gmail.com](mailto:mocab.mail@gmail.com)
 
 <br>
