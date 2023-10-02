@@ -33,8 +33,8 @@ I'm Mocab, welcome to my profile!
 </a>
 
 ### ✉️ Contact Me
-- <a href="https://discord.com/users/mocab">Talk to me on Discord</a>
-- Email me at [mocab.mail@gmail.com](mailto:mocab.mail@gmail.com)
+- <a href="https://discord.com/users/450225492876984320">Talk to me on Discord</a>
+- Email me @ [mocab.mail@gmail.com](mailto:mocab.mail@gmail.com)
 
 <br>
 <a href="https://github.com/mocab" target="_blank">
