@@ -8,17 +8,29 @@ I'm Mocab, welcome to my profile!
 - ✍🏻 Currently learning Python.
 - ⚡Interested in many fields, including electronics, computer science, robotics and AI.
 - 💻Planning to study computer engineering.
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="discord logo" height="20"> I am very good at creating, designing and managing Discord servers.
-- <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" height="20"> I am highly skilled and experienced at creating and setting up Minecraft servers.
+- <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" alt="Discord logo" height="20"> I am very good at creating, designing and managing Discord servers.
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> I am highly skilled and experienced at creating and setting up Minecraft servers.
 
 ### Languages and Tools:
 
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python logo"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" alt="HTML5 logo"/></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" alt="CSS3 logo"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="Visual studio code logo"/></a>
-<a href="https://www.gimp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="36" alt="Gimp logo"/></a>
-<a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="Canva logo"/></a>
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python logo"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="36" alt="HTML5 logo"/>
+</a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="36" alt="CSS3 logo"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="Visual studio code logo"/>
+</a>
+<a href="https://www.gimp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="36" alt="Gimp logo"/>
+</a>
+<a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="Canva logo"/>
+</a>
 
 ### ✉️ Contact Me
 - <a href="https://discord.com/users/mocab">Talk to me on Discord</a>
