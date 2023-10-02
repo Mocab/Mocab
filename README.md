@@ -1,7 +1,7 @@
 <img src="./assets/banner.jpg" alt="heading banner" align="center">
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px">
-I'm Mocab, welcome to my profile!
+## Hi there
+I'm Mocab, welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px">
 
 ### About Me:
 
@@ -32,7 +32,7 @@ I'm Mocab, welcome to my profile!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="Canva logo">
 </a>
 
-### ✉️ Contact Me
+### ✉️ Contact Me:
 - <a href="https://discord.com/users/450225492876984320">Talk to me on Discord</a>
 - Email me @ [mocab.mail@gmail.com](mailto:mocab.mail@gmail.com)
 
