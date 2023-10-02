@@ -5,11 +5,13 @@ I'm Mocab, welcome to my profile! <img src="https://media.giphy.com/media/hvRJCL
 
 ### About Me:
 
-- ✍🏻 Currently learning Python.
-- ⚡Interested in many fields, including electronics, computer science, robotics and AI.
-- 💻Planning to study computer engineering.
-- <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" alt="Discord logo" height="20"> I am very good at creating, designing and managing Discord servers.
-- <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> I am highly skilled and experienced at creating and setting up Minecraft servers (Java).
+- ✍🏻 Currently learning Python
+- ⚡Interested in many fields, including electronics, computer science, robotics and AI
+- 💻Tech enthusiast
+- 🔨Loves to dissect circuit boards and electronics
+- 🤖Planning to study computer engineering
+- <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" alt="Discord logo" height="20"> Very good at creating, designing and managing Discord servers
+- <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> Highly skilled and experienced at creating and setting up Minecraft servers (Java)
 
 ### Languages and Tools:
 
@@ -37,7 +39,7 @@ I'm Mocab, welcome to my profile! <img src="https://media.giphy.com/media/hvRJCL
 - Email me @ [mocab.mail@gmail.com](mailto:mocab.mail@gmail.com)
 
 <br>
-<a href="https://github.com/mocab" target="_blank">
+<a href="https://discord.com/users/450225492876984320" target="_blank">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord badge">
 <a href="https://github.com/mocab" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github badge">
