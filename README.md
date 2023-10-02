@@ -50,7 +50,7 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mocab&count_private=true&theme=algolia&show_icons=true" alt="Mocab Github stats">
 
-<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats&theme=github-dark-blue" alt="current streak">
+<img src="https://streak-stats.demolab.com/?user=mocab&theme=dark)](https://git.io/streak-stats&theme=github-dark-blue" alt="current streak">
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=mocab&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
