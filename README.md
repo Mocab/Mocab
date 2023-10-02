@@ -14,22 +14,22 @@ I'm Mocab, welcome to my profile!
 ### Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python logo">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="36" alt="HTML5 logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="36" alt="HTML5 logo">
 </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="36" alt="CSS3 logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="36" alt="CSS3 logo">
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="Visual studio code logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="Visual studio code logo">
 </a>
 <a href="https://www.gimp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="36" alt="Gimp logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="36" alt="Gimp logo">
 </a>
 <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="Canva logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="Canva logo">
 </a>
 
 ### ✉️ Contact Me
@@ -38,20 +38,23 @@ I'm Mocab, welcome to my profile!
 
 <br>
 <a href="https://github.com/mocab" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord badge">
+<a href="https://github.com/mocab" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github badge">
+<a href="mailto:mocab.mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"></a>
 
 
 ## Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mocab&count_private=true&theme=algolia&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=mocab&count_private=true&theme=algolia&show_icons=true" alt="Mocab Github stats">
 
-<a href="http://www.github.com/mocab"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mocab&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats&theme=github-dark-blue" alt="current streak">
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=mocab&label=Profile%20views&color=0e75b6&style=flat" alt="profile views mocab"/>
+<img src="https://komarev.com/ghpvc/?username=mocab&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
 <br>
 
-<img src="https://raw.githubusercontent.com/Mocab/Mocab/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Mocab/Mocab/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
 
 
