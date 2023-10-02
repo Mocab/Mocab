@@ -38,7 +38,7 @@ I'm Mocab, welcome to my profile!
 <img src="https://komarev.com/ghpvc/?username=mocab&label=Profile%20views&color=0e75b6&style=flat" alt="mocab"/>
 <br>
 
-<img src="https://raw.githubusercontent.com/mocab/mocab/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mocab/Mocab/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
