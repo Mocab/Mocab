@@ -7,9 +7,8 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 
 - ✍🏻 Currently learning Python
 - ⚡ Interested in many fields including: electronics, computer science, robotics and AI
-- 💻 Tech enthusiast
+- 💻 Planning to study computer engineering
 - 🔨 Loves to dissect circuit boards and electronics
-- 🤖 Planning to study computer engineering
 - <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" alt="Discord logo" height="20"> Very good at creating, designing and managing Discord servers
 - <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> Highly skilled and experienced at creating and setting up Minecraft servers (Java)
 
@@ -48,7 +47,7 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 
 ## Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mocab&count_private=true&theme=algolia&show_icons=true" alt="Mocab Github stats">
+<img src="https://vercel-readme-stats-mocabs-projects.vercel.app/api?username=mocab&count_private=true&theme=algolia&show_icons=true" alt="Mocab Github stats">
 
 <img src="https://streak-stats.demolab.com/?user=mocab&theme=dark)](https://git.io/streak-stats&theme=github-dark-blue" alt="current streak">
 
