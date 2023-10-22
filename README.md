@@ -15,22 +15,16 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 ### Languages and Tools:
 
 <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python logo">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python logo">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="36" alt="HTML5 logo">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5 logo">
 </a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="36" alt="CSS3 logo">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3 logo">
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="Visual studio code logo">
-</a>
-<a href="https://www.gimp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="36" alt="Gimp logo">
-</a>
-<a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="Canva logo">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual studio code logo">
 </a>
 
 ### ✉️ Contact Me:
