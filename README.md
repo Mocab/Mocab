@@ -8,7 +8,6 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 - ✍🏻 Currently learning Python
 - ⚡ Interested in many fields including: electronics, computer science, robotics and AI
 - 💻 Planning to study computer engineering
-- 🔨 Loves to dissect circuit boards and electronics
 - <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" alt="Discord logo" height="20"> Very good at creating, designing and managing Discord servers
 - <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> Highly skilled and experienced at creating and setting up Minecraft servers (Java)
 
