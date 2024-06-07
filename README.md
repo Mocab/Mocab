@@ -1,15 +1,16 @@
 <img src="./assets/banner.jpg" alt="heading banner" align="center">
 
 ## Hi there
+
 I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 
 ### About Me:
 
-- ✍🏻 Currently learning Python
-- ⚡ Interested in many fields including: electronics, computer science, robotics and AI
-- 💻 Planning to study computer engineering
-- <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" alt="Discord logo" height="20"> Very good at creating, designing and managing Discord servers
-- <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> Highly skilled and experienced at creating and setting up Minecraft servers (Java)
+-   ✍🏻 Currently learning Python
+-   ⚡ Interested in many fields including: electronics, computer science, robotics and AI
+-   💻 Planning to study computer engineering
+-   <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" alt="Discord logo" height="20"> Pretty good at creating, designing and managing Discord servers
+-   <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> Very experienced at creating and setting up Minecraft servers (Java)
 
 ### Languages and Tools:
 
@@ -27,8 +28,9 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 </a>
 
 ### ✉️ Contact Me:
-- Talk to me on <a href="https://discord.com/users/450225492876984320">Discord</a>
-- Email me @ [mocab.mail@gmail.com](mailto:mocab.mail@gmail.com)
+
+-   Talk to me on <a href="https://discord.com/users/450225492876984320">Discord</a>
+-   Email me @ [mocab.mail@gmail.com](mailto:mocab.mail@gmail.com)
 
 <br>
 <a href="https://discord.com/users/450225492876984320" target="_blank">
@@ -37,8 +39,8 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github badge">
 <a href="mailto:mocab.mail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"></a>
 
-
 ## Stats:
+
 <div align="center">
 <img src="https://vercel-readme-stats-mocabs-projects.vercel.app/api?username=mocab&count_private=true&theme=algolia&show_icons=true" alt="Mocab Github stats">
 
@@ -51,4 +53,6 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 <img src="https://raw.githubusercontent.com/Mocab/Mocab/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
 
-
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Mocab/Mocab/main/assets/background.png');]{x0000}$}
+```
