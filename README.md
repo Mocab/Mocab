@@ -54,5 +54,5 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 </div>
 
 ```math
-\ce{$\unicode[goombafont; object-fit: cover; background-size: cover; background: url('https://raw.githubusercontent.com/Mocab/Mocab/main/assets/background.png');]{x0000}$}
+\ce{$\unicode[goombafont; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Mocab/Mocab/main/assets/background.png');]{x0000}$}
 ```
