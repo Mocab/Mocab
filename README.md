@@ -23,6 +23,9 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3 logo">
 </a>
+<a href="https://sass-lang.com" target="_blank">
+    <img src="/assets/scss.svg" alt="SCSS logo">
+</a>
 <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual studio code logo">
 </a>
@@ -31,9 +34,6 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 </a>
 <a href="https://www.notion.so" target="_blank">
     <img src="https://skillicons.dev/icons?i=notion" alt="Notion logo">
-</a>
-<a href="https://sass-lang.com" target="_blank">
-    <img src="/assets/scss.svg" alt="SCSS logo">
 </a>
 <a href="https://jekyllrb.com" target="_blank">
     <img src="/assets/jekyll.svg" alt="Jekyll logo">
