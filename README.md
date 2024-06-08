@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" alt="heading banner" align="center">
+<img src="/assets/banner.svg" style="width: 100%;" alt="Click to see the source">
 
 ## Hi there
 
@@ -7,14 +7,14 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 ### About Me:
 
 -   ✍🏻 Currently learning Python
--   ⚡ Interested in many fields including: electronics, computer science, robotics and AI
+-   ⚡ Interested in many fields including: electronics, computer science and robotics
 -   💻 Planning to study computer engineering
 -   <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" alt="Discord logo" height="20"> Pretty good at creating, designing and managing Discord servers
 -   <img src="https://cdn.freebiesupply.com/logos/large/2x/minecraft-1-logo-png-transparent.png" alt="Minecraft logo" height="20"> Very experienced at creating and setting up Minecraft servers (Java)
 
 ### Languages and Tools:
 
-<a href="https://www.python.org/" target="_blank">
+<a href="https://www.python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" alt="Python logo">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
@@ -23,8 +23,20 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3 logo">
 </a>
-<a href="https://code.visualstudio.com/" target="_blank">
+<a href="https://code.visualstudio.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual studio code logo">
+</a>
+<a href="https://www.docker.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker logo">
+</a>
+<a href="https://www.notion.so" target="_blank">
+    <img src="https://skillicons.dev/icons?i=notion" alt="Notion logo">
+</a>
+<a href="https://sass-lang.com" target="_blank">
+    <img src="/assets/scss.svg" alt="SCSS logo">
+</a>
+<a href="https://jekyllrb.com" target="_blank">
+    <img src="/assets/jekyll.svg" alt="Jekyll logo">
 </a>
 
 ### ✉️ Contact Me:
@@ -52,7 +64,3 @@ I'm Mocab, welcome to my profile! <img src="./assets/wave.gif" height="20px">
 
 <img src="https://raw.githubusercontent.com/Mocab/Mocab/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
-
-```math
-\ce{$\unicode[goombafont; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Mocab/Mocab/main/assets/background.png');]{x0000}$}
-```

@@ -1,0 +1,81 @@
+<svg fill="none" viewBox="0 0 900 300" width="900" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+                    @keyframes gradient {
+                0% {
+                    background-position: 0% 50%;
+                }
+                50% {
+                    background-position: 100% 50%;
+                }
+                100% {
+                    background-position: 0% 50%;
+                }
+            }
+
+            @keyframes wave {
+                0% {
+                    transform: rotate(0deg);
+                }
+                10% {
+                    transform: rotate(14deg);
+                }
+                20% {
+                    transform: rotate(-8deg);
+                }
+                30% {
+                    transform: rotate(14deg);
+                }
+                40% {
+                    transform: rotate(-4deg);
+                }
+                50% {
+                    transform: rotate(10deg);
+                }
+                60% {
+                    transform: rotate(0deg);
+                }
+                100% {
+                    transform: rotate(0deg);
+                }
+            }
+
+            .container {
+                width: 100%;
+                height: 300px;
+                background: linear-gradient(130deg, hsl(198, 100%, 75%), hsl(223, 100%, 75%), hsl(280, 100%, 75%), hsl(234, 100%, 75%));
+                background-size: 400% 400%;
+                animation: gradient 15s ease infinite;
+                display: flex;
+                align-items: center;
+                color: #040037;
+                font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+                h1 {
+                    margin-left: 128px;
+                }
+            }
+            .name {
+                font-size: 72px;
+                font-family: "Lucida Handwriting", cursive;
+            }
+            .wave {
+                animation: wave 1.5s linear 0.5s infinite;
+                display: inline-block;
+                transform-origin: 70% 70%;
+            }
+      </style>
+
+        <div class="container" height="300px">
+            <h1>
+                Hi
+                <div class="wave">👋</div>
+                , I'm
+                <div class="name">Mocab</div>
+            </h1>
+        </div>
+
+    </div>
+  </foreignObject>
+</svg>
